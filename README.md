@@ -1,5 +1,5 @@
 # Dish-IoT-Hackathon
-This repo includes code and a powerpoint presentation from the Dish IoT Hackathon on 2/11/2018 - 2/12/2018. The goal of this hackathon was to create an IoT device that would improve the Dish campus community.  The IoT device needed to sense or monitor something in the environment and update information based on that sensor input. The hackathon was co-sponsored by Amazon Web Services (AWS) and teams were also mandated to incorporate an Alexa skill with their IoT device.
+This repo includes  [code](https://github.com/elogue01/Dish-IoT-Hackathon/blob/master/pi_sensor.py)and a [powerpoint presentation](https://github.com/elogue01/Dish-IoT-Hackathon/blob/master/Hat4-SeatIT2.pptx) from the Dish IoT Hackathon on 2/11/2018 - 2/12/2018. The goal of this hackathon was to create an IoT device that would improve the Dish campus community.  The IoT device needed to sense or monitor something in the environment and update information based on that sensor input. The hackathon was co-sponsored by Amazon Web Services (AWS) and teams were also mandated to incorporate an Alexa skill with their IoT device.
 
 ## Team SeatIt
 
