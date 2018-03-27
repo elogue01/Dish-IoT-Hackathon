@@ -16,7 +16,7 @@ This repo includes  [code](https://github.com/elogue01/Dish-IoT-Hackathon/blob/m
 Create a web app and Alexa Skill that lets Dish employees know if seats are available in the cafeteria.
 
 ### Approach:
-1) Use a raspberry pi and PIR (proximity) sensor to detect movement under a seat in order to determine whether a seat is occupied.  
+1) Use a raspberry pi and PIR (proximity) sensor to detect movement under a table in order to determine whether a seat is occupied.  
 2) A Python script was written to allow the IoT device to monitor movement under the table in order to determine seat occupancy.
 3) The Python script allows a change in the seat occupancy state to be delivered as a message to AWSIoT which then updates a AWS DynamoDB (noSQL database).   
 4) Data stored in this database was then used to dynamically update a web app and to update an Alexa Skill.
