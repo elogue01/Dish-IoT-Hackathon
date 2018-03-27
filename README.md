@@ -28,5 +28,5 @@ Create a web app and Alexa Skill that lets Dish employees know if seats are avai
 **Clark Newell and Andrew Lattner** - Clark and Andrew worked together to develop the Alexa skill.  The skill was designed to allow an employee to ask Alexa how many seats were available in the Dish cafeteria.  
 **Kimberly Mavrakos and  Paula Robson** - Kim and Paula worked to determine the business feasibility of our IoT device.  They also put together the teams powerpoint presentation and delivered the majority of that presentation to the hackathon judges.  Paula also assisted Jonathan in the hardware set up for our IoT device.
 
-###Conclusion:
+### Conclusion:
 This was my first experience coding for a raspberry pi but I have to say I am hooked.  I have a number of projects planned to build raspberry pi IoT sensors for use around my house now.  Overall, I learned a lot about coding for a pi, about delivering data to the AWS cloud services, and in using noSQL databases.  Everyone on my team worked hard over the 2 day hackathon and were all great people to work with.  Our team did not win this competition but the judges were impressed by what we accomplished and encouraged us to work on the project further in a future hackathon.  Feel free to contact me if you have comments or questions about our hackathon project.  My email is elogue01@gmail.com
